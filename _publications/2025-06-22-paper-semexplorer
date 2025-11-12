@@ -2,7 +2,7 @@
 title: "SemExplorer: A User Interface for Semantic Approach to Customized Dataset Search"
 collection: publications
 category: conferences
-permalink: /publication/semexplorer
+permalink: /publication/semexplorer/
 excerpt: "This paper is about an interactive demo system for semantic, customizable dataset search: type natural-language queries, refine with attribute filters, and explore results in a responsive UI."
 date: 2025-06-22
 authors:
