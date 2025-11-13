@@ -7,12 +7,8 @@ author_profile: true
 entries_layout: list
 ---
 
-<ul>
-{% assign items = site.news | sort: "date" | reverse %}
-{% for item in items %}
-  <li>
-    <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
-    <span> — {{ item.date | date: "%Y-%m-%d" }}</span>
-  </li>
-{% endfor %}
-</ul>
+{% include base_path %}
+
+<ul>{% for post in site.news reversed %}
+{% include archive-single-talk-cv.html  %}
+{% endfor %}</ul>

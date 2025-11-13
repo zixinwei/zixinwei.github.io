@@ -226,9 +226,9 @@ collections:
   # talks:
   #   output: true
   #   permalink: /:collection/:path/
-  news:
-    output: true
-    permalink: /news/:title/
+  # news:
+  #   output: true
+  #   permalink: /news/:title/
 
 # These settings control how pages and collections are included in the site
 defaults:
