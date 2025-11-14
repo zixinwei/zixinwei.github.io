@@ -1,7 +1,7 @@
 ---
 published: true
 sitemap: true
-title: "Teaching Assistant — CSC1003 Introduction to Computer Science and Java Programming — 2023 Fall"
+title: "CSC1003: Introduction to Computer Science and Java Programming — Teaching Assistant"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-fall-csc1003/
@@ -17,3 +17,5 @@ Computer science introductory course. I served as an undergratuate teaching assi
 - Designed / modified 4 coding assignments.
 - Managed the online judge system and graded the assignments.
 - Held tutorial sessions every week.
+
+I also served as TA for CSC1003 in **2024 Fall** and **2025 Fall**.
