@@ -20,7 +20,7 @@ redirect_from:
 
   - The Chinese University of Hong Kong, Shenzhen
   - Topics includes: Dataset Discovery, Retrieval-augmented Generation
-  - Supervisor: Chenhao Ma
+  - Supervisor: [Chenhao Ma](https://chenhao-ma.github.io/)
 
 # Skills
 
