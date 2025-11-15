@@ -24,6 +24,7 @@ redirect_from:
 
 # Skills
 
+- Languages: Chinese (Native), English (TOEFL 106)
 - Programming Languages:
   - Python, Java, C/C++, Erlang, Elixir, Go, SQL
   - HTML, Javascript, Typescript
