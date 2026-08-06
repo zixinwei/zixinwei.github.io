@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale: "en-US"
 site_theme: "default" # Currently available options are "default", "air"
-title: "Zixin Wei"
+title: "Zixin (Tim) Wei"
 title_separator: "-"
-name: &name "Zixin Wei"
+name: &name "Zixin (Tim) Wei"
 description: &description "Zixin Wei's academic portfolio" # Update this with a general description of your site, this is the default if not overridden by a page
 url:
   https://zixinwei.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
@@ -25,13 +25,13 @@ repository: "academicpages/academicpages.github.io"
 author:
   # Biographic informationnn
   avatar: "profile-2026.png"
-  name: "Zixin Wei"
+  name: "Zixin (Tim) Wei"
   pronouns: "he/him" # example: "she/her"
-  bio: "Senior undergraduate at CUHK-Shenzhen. I'm currently working on information retrieval and RAG, with a focus on dataset discovery."
-  location: "Shenzhen, China"
-  employer: "The Chinese University of Hong Kong, Shenzhen"
+  bio: "Master of Computing (Computer Science Specialisation) student at NUS. My current work focuses on data management, semantic query processing, and systems."
+  location: "Singapore"
+  employer: "National University of Singapore"
   uri: # URL
-  email: "zixinwei1@link.cuhk.edu.cn"
+  email: "zixinwei@u.nus.edu"
 
   # Academic websites
   academia: # URL
