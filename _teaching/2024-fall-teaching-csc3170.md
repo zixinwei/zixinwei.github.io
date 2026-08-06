@@ -7,6 +7,7 @@ type: "Undergraduate course"
 permalink: /teaching/2024-fall-csc3170/
 venue: "The Chinese University of Hong Kong, Shenzhen, School of Data Science"
 date: 2024-12-22
+term: "Fall 2024"
 location: "Shenzhen, China"
 ---
 

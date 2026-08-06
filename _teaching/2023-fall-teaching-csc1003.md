@@ -7,10 +7,11 @@ type: "Undergraduate course"
 permalink: /teaching/2023-fall-csc1003/
 venue: "The Chinese University of Hong Kong, Shenzhen, School of Data Science"
 date: 2023-12-22
+term: "Fall 2023"
 location: "Shenzhen, China"
 ---
 
-Computer science introductory course. I served as an undergratuate teaching assistant, giving tutorials and managing the online judge system.
+Computer science introductory course. I served as an undergraduate teaching assistant, giving tutorials and managing the online judge system.
 
 # Responsibilities
 
