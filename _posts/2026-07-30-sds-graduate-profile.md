@@ -1,7 +1,7 @@
 ---
 published: true
 sitemap: true
-title: "SDS Graduate Profile | Zixin Wei: From Curiosity to First-Author Publications at Top Conferences"
+title: "SDS Graduate Profile — Zixin Wei: From Curiosity to First-Author Publications at Top Conferences"
 date: 2026-07-30
 permalink: /posts/2026/07/sds-graduate-profile/
 link: "https://mp.weixin.qq.com/s/X8a4YaMEf7RmYkXZiku6aQ"
