@@ -2,7 +2,7 @@
 title: "Revisiting Task-Oriented Dataset Search in the Era of Large Language Models: Challenges, Benchmark, and Solution"
 collection: publications
 category: conferences
-permalink: /publication/kats-vldb
+permalink: /publication/kats-vldb/
 excerpt: "This paper introduces KATS, an end-to-end task-oriented dataset search system that builds a knowledge graph from scientific literature, then answers queries with hybrid vector retrieval + graph-based ranking, alongside the CS-TDS benchmark."
 date: 2026-01-01
 authors:
