@@ -11,23 +11,29 @@ redirect_from:
 
 # Education
 
-- B.S. in China, The Chinese University of Hong Kong, Shenzhen, 2026 (expected)
-- Exchange in the U.S., University of North Carolina at Chapel Hill, 2025
+- Master of Computing (Computer Science Specialisation), National University of Singapore, 2028 (expected)
+- Bachelor of Science in Computer Science and Engineering, The Chinese University of Hong Kong, Shenzhen, 2026
+- Exchange Program, University of Toronto, 2026
+- Exchange Program, University of North Carolina at Chapel Hill, 2025
 
 # Research experience
 
-- Jan. 2024 - Now: Undergraduate Research Assistant
+- Aug. 2026 - Now: Graduate Research
+
+  - National University of Singapore
+  - Topics include: Semantic Query Processing and Systems
+  - Supervisor: [Wenqi Jiang](https://wenqijiang.github.io/)
+
+- Jan. 2024 - Jun. 2026: Undergraduate Research Assistant
 
   - The Chinese University of Hong Kong, Shenzhen
-  - Topics includes: Dataset Discovery, Retrieval-augmented Generation
+  - Topics include: Dataset Discovery, Retrieval-augmented Generation, and Cross-Table Question Answering
   - Supervisor: [Chenhao Ma](https://chenhao-ma.github.io/)
 
 # Skills
 
 - Languages: Chinese (Native), English (TOEFL 106)
-- Programming Languages:
-  - Python, Java, C/C++, Erlang, Elixir, Go, SQL
-  - HTML, Javascript, Typescript
+- Programming Languages: Python, Java, C/C++, SQL
 - Frameworks: PyTorch, FastAPI, Angular, SQLAlchemy
 - Tools: Git, GitHub, Docker
 
