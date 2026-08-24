@@ -23,3 +23,16 @@ My work includes **KATS**, an end-to-end task-oriented dataset search system tha
 I also enjoy teaching and mentoring. During my undergraduate studies, I served as a teaching assistant for Database Systems, Design and Analysis of Algorithms, Probability & Statistics, and introductory computer science and Java courses, and received a TA/USTF Award for my teaching contributions.
 
 You can find my **CV**, **publications**, and **teaching** in the navigation bar above.
+
+---
+
+## Visitors Around the World
+
+<div style="text-align: center; overflow-x: auto;">
+  <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=Nxm7Ll9gewXkpuSi2GT0HBVdUouek9tuHXYp_RozwmE&amp;cl=ffffff&amp;w=a"></script>
+  <noscript>
+    <a href="https://mapmyvisitors.com/web/1c7od" title="View visitor statistics">
+      <img src="https://mapmyvisitors.com/map.png?d=Nxm7Ll9gewXkpuSi2GT0HBVdUouek9tuHXYp_RozwmE&amp;cl=ffffff" alt="Map of visitors around the world">
+    </a>
+  </noscript>
+</div>
